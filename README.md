@@ -1,4 +1,7 @@
 # 🗺️ Travel Website ✈️🌍
+<h1 align="center">
+    <img alt="" title="" src="./assets/images/github.png" />
+</h1>
 
 ##  :hammer_and_wrench: Tecnologias:
 
